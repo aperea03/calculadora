@@ -54,19 +54,6 @@ public class Calculadora {
 
 // GETTERS & SETTERS
 
-    public double getNum1 (){
-        return this.num1;
-    }
-     public double getNum2 (){
-        return this.num2;
-    }        
-     public String getMarca (){
-        return this.marca;
-    }
-    public String getModelo (){
-        return this.modelo;
-    }
-    
     public void setNum1 ( double num1){
         this.num1=num1;
     }
