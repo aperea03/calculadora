@@ -44,6 +44,9 @@ public class Calculadora {
     public double suma () {
         return (this.num1 + this.num2);
     }
+    public double multiplicacion () {
+        return (this.num1 * this.num2);
+    }
 
 
 // GETTERS & SETTERS
